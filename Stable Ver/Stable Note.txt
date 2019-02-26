@@ -1,0 +1,1 @@
+This place contains stable version of the project.

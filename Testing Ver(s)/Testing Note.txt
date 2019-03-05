@@ -1,1 +1,3 @@
 This place contains several tests of the project.
+
+npm i --save react-native-vector-icons

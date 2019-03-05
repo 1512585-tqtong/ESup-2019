@@ -73,7 +73,7 @@ export default class mainScene extends Component {
                     <View style={{flexDirection:'row', alignItems:'center', justifyContent:'center'}}>
                         <Icon name="search" color='#9B9B9B' size={30}/>
                     </View>
-                </TouchableOpacity>  
+                </TouchableOpacity>
             </View>
         );
     }
